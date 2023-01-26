@@ -26,7 +26,7 @@ philo 프로그램이 생성됐다면, 필요한 인자에 맞춰 매개변수�
 
 # 실행예시
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/941df175-f930-4f3a-a0cf-4caa87fcc5ce/Untitled.png)
+![image](https://user-images.githubusercontent.com/48785968/214742111-744abc38-28ca-48af-bdfb-5d9d764c44c8.png)
 
 # 노션정리
 
